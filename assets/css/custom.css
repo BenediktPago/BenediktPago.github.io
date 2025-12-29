@@ -32,7 +32,11 @@ nav.navbar.navbar-light.navbar-expand-sm.fixed-top .nav-link:hover {
 
 
 
-
+.highlight,
+.accent,
+strong {
+    color: #e07a5f !important;  /* your desired accent/highlight color */
+}
 
 
 
