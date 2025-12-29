@@ -41,6 +41,15 @@ strong {
 
 
 
+a {
+    color: #e07a5f !important;        /* link color */
+}
+
+a:hover {
+    color: ##e07a5f !important;        /* hover color */
+}
+
+
 
 
 :root {
