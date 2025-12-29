@@ -21,24 +21,16 @@ nav.navbar.fixed-top {
 }
 
 
-/* Top bar link and brand text */
-nav.navbar.fixed-top .navbar-brand,
-nav.navbar.fixed-top .nav-link {
-    color: #f5f5f5 !important;  /* very light gray */
+nav.navbar.navbar-light.navbar-expand-sm.fixed-top .navbar-brand,
+nav.navbar.navbar-light.navbar-expand-sm.fixed-top .nav-link {
+    color: #ffffff !important;  /* light text */
 }
 
-/* Optional: hover effect */
-nav.navbar.fixed-top .nav-link:hover {
-    color: #ffffff !important;  /* pure white on hover */
+nav.navbar.navbar-light.navbar-expand-sm.fixed-top .nav-link:hover {
+    color: #d8efd3 !important;  /* optional hover color */
 }
 
 
-
-
-
-nav.navbar.navbar-light.navbar-expand-sm.fixed-top {
-    background-color: #1f2a44  !important;  /* your header color */
-}
 
 
 
