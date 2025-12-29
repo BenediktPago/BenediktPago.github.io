@@ -8,3 +8,9 @@
 body {
     background-color: #D0F0C0; /* Replace with your color */
 }
+
+:root {
+    --global-bg-color: #d0f0c0;
+    --global-nav-bg-color: #d0f0c0;
+    --global-nav-text-color: #ffffff;
+}
