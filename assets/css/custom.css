@@ -5,9 +5,12 @@
 }
 
 
-body {
-    background-color: #D0F0C0; /* Replace with your color */
+
+.fixed-top-nav {
+    background-color: #d0f0c0; !important;
 }
+
+
 
 :root {
     --global-bg-color: #d0f0c0;
