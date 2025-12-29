@@ -1,0 +1,5 @@
+.profile.float-right {
+    float: left !important;
+    margin-left: 0;
+    margin-right: 2em;
+}
