@@ -27,7 +27,7 @@ nav.navbar.navbar-light.navbar-expand-sm.fixed-top .nav-link {
 }
 
 nav.navbar.navbar-light.navbar-expand-sm.fixed-top .nav-link:hover {
-    color: #d8efd3 !important;  /* optional hover color */
+    color: #e07a5f !important;  /* optional hover color */
 }
 
 
@@ -35,18 +35,18 @@ nav.navbar.navbar-light.navbar-expand-sm.fixed-top .nav-link:hover {
 .highlight,
 .accent,
 strong {
-    color: $coral-color !important;  /* your desired accent/highlight color */
+    color: #e07a5f !important;  /* your desired accent/highlight color */
 }
 
 
 
 
 a {
-    color: $coral-color !important;        /* link color */
+    color: #e07a5f !important;        /* link color */
 }
 
 a:hover {
-    color: $coral-color !important;        /* hover color */
+    color: #e07a5f !important;        /* hover color */
 }
 
 
