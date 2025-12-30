@@ -35,18 +35,18 @@ nav.navbar.navbar-light.navbar-expand-sm.fixed-top .nav-link:hover {
 .highlight,
 .accent,
 strong {
-    color: #e07a5f !important;  /* your desired accent/highlight color */
+    color: $coral-color !important;  /* your desired accent/highlight color */
 }
 
 
 
 
 a {
-    color: #e07a5f !important;        /* link color */
+    color: $coral-color !important;        /* link color */
 }
 
 a:hover {
-    color: ##e07a5f !important;        /* hover color */
+    color: $coral-color !important;        /* hover color */
 }
 
 
