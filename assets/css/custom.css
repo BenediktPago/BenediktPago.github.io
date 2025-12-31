@@ -6,7 +6,8 @@
 
 
 
-.font-weight-lighter {
+
+.navbar .nav-link strong {
   color: #ffffff !important;
 }
 
