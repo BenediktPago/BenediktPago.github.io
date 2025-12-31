@@ -10,7 +10,7 @@
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
- dblp_url: https://dblp.org/pid/206/3399.html # your DBLP profile url
+dblp_url: https://dblp.org/pid/206/3399.html # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: benedikt.pago@cl.cam.ac.uk # your email address
 # facebook_id: # your facebook id
@@ -29,7 +29,7 @@ email: benedikt.pago@cl.cam.ac.uk # your email address
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
- orcid_id: 0000-0001-6377-1230 # your ORCID ID
+orcid_id: 0000-0001-6377-1230 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
