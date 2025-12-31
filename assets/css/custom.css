@@ -93,7 +93,7 @@ a:hover {
     --global-nav-text-color: #ffffff;
     --global-hover-color: #e07a5f !important;
     --global-theme-color: #cc3e18 !important;  
-    --global-divider-color: #rgba(0,0,0,0.5) !important;
+    --global-divider-color: rgba(0,0,0,0.5) !important;
 }
 
 html,
