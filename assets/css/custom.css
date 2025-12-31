@@ -41,6 +41,17 @@ code {
 
 
 
+
+.fixed-top-nav. container.mt-5 .post .social a:hover i, 
+.fixed-top-nav. container.mt-5 .post .social a:hover svg {
+  color: var(--global-hover-color) !important;
+  fill: var(--global-hover-color) !important;
+}
+
+
+
+
+
 .social.contact-icons a:hover i {
   color: #e07a5f !important; /* your hover color */
 }
