@@ -34,7 +34,8 @@ nav.navbar.navbar-light.navbar-expand-sm.fixed-top .nav-link:hover {
 
 .highlight,
 .accent,
-strong {
+strong,
+code {
     color: #e07a5f !important;  /* your desired accent/highlight color */
 }
 
@@ -64,6 +65,10 @@ strong {
   color: #e07a5f !important;
 }
 
+.fixed-top-nav. container.mt-5 .post .social .contact-icons a:hover .ai.ai-arxiv {
+  color: #e07a5f !important;
+}
+
 
 
 
@@ -85,4 +90,5 @@ a:hover {
     --global-bg-color: #d0f0c0;
     --global-nav-bg-color: #d0f0c0;
     --global-nav-text-color: #ffffff;
+    --global-hover-color: #e07a5f !important;
 }
