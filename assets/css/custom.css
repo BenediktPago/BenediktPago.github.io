@@ -36,7 +36,7 @@ nav.navbar.navbar-light.navbar-expand-sm.fixed-top .nav-link:hover {
 .accent,
 strong,
 code {
-    color: #db6040 !important;  /* your desired accent/highlight color */
+    color: #cc3e18 !important;  /* your desired accent/highlight color */
 }
 
 
@@ -51,7 +51,7 @@ code {
 
 .fixed-top-nav. container.mt-5 .post .social a:hover svg, 
 .fixed-top-nav. container.mt-5 .post .social a:hover svg * {
-  fill: #e07a5f !important;
+  fill: #db6040 !important;
 }
 
 
@@ -62,7 +62,7 @@ code {
 
 
 a {
-    color: #db6040 !important;        /* link color */
+    color: #cc3e18 !important;        /* link color */
 }
 
 a:hover {
