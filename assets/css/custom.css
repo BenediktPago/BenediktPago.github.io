@@ -40,11 +40,23 @@ strong {
 
 
 
-.social .contact-icons a:hover i {
+.social.contact-icons a:hover i {
   color: #e07a5f !important; /* your hover color */
 }
 
 
+.social.contact-icons a:hover {
+  color: #e07a5f !important; /* your hover color */
+}
+
+.social .contact-icons a:hover .ai.ai-arxiv {
+  color: #e07a5f !important;
+}
+
+
+.social .contact-icons .ai.ai-arxiv:hover {
+  color: #e07a5f !important;
+}
 
 
 a {
