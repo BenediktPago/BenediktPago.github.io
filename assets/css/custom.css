@@ -43,12 +43,16 @@ code {
 
 
 .fixed-top-nav. container.mt-5 .post .social a:hover i, 
-.fixed-top-nav. container.mt-5 .post .social a:hover svg {
-  color: var(--global-hover-color) !important;
-  fill: var(--global-hover-color) !important;
+.fixed-top-nav. container.mt-5 .post .social a:hover i::before{
+  color: #e07a5f !important;
 }
 
 
+
+.fixed-top-nav. container.mt-5 .post .social a:hover svg, 
+.fixed-top-nav. container.mt-5 .post .social a:hover svg * {
+  fill: #e07a5f !important;
+}
 
 
 
