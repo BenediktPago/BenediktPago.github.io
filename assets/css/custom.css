@@ -66,15 +66,20 @@ code {
 
 
 
-
-
-/* a {
+ a {
     color: #cc3e18 !important;        /* link color */
-
+}  
 
 a:hover {
     color: #e07a5f !important;        /* hover color */
 }
+
+
+
+.badge.rounded.w-100 a {
+   color: #ffffff !important;
+}
+
 
 
 
