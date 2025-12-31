@@ -8,9 +8,9 @@ profile:
   align: left
   image: profile_pic_original.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Computer Science and Technology</p>
-    <p>University of Cambridge</p>
+  #more_info: >
+  #  <p>Department of Computer Science and Technology</p>
+  #  <p>University of Cambridge</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
