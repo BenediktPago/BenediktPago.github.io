@@ -40,6 +40,12 @@ strong {
 
 
 
+.social .contact-icons a:hover i {
+  color: #e07a5f !important; /* your hover color */
+}
+
+
+
 
 a {
     color: #e07a5f !important;        /* link color */
