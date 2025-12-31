@@ -440,13 +440,6 @@ ninja.data = [{
           window.open("https://arxiv.org/a/.html", "_blank");
         },
       },{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-dblp',
         title: 'DBLP',
         section: 'Socials',
