@@ -59,6 +59,14 @@ strong {
 }
 
 
+
+.fixed-top-nav. container.mt-5 .post .social a:hover .ai.ai-arxiv {
+  color: #e07a5f !important;
+}
+
+
+
+
 a {
     color: #e07a5f !important;        /* link color */
 }
@@ -66,6 +74,9 @@ a {
 a:hover {
     color: #e07a5f !important;        /* hover color */
 }
+
+
+
 
 
 
