@@ -105,6 +105,14 @@ a:hover {
     --global-bg-color: #d0f0c0;
     --global-nav-bg-color: #d0f0c0;
     --global-nav-text-color: #ffffff;
-    --global-hover-color: #e07a5f;
-    --global-theme-color: #e07a5f;  
+    --global-hover-color: #e07a5f !important;
+    --global-theme-color: #e07a5f !important;  
+}
+
+html,
+html[data-theme],
+html[data-theme="light"],
+html[data-theme="dark"] {
+  --global-hover-color: #e07a5f !important;
+  --global-theme-color: #e07a5f !important; 
 }
