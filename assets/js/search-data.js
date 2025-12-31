@@ -439,4 +439,32 @@ ninja.data = [{
         handler: () => {
           window.open("https://arxiv.org/a/.html", "_blank");
         },
+      },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+        },
+      },{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%62%65%6E%65%64%69%6B%74.%70%61%67%6F@%63%6C.%63%61%6D.%61%63.%75%6B", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/", "_blank");
+        },
       },];
