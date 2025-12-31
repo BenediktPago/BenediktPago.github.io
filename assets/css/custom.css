@@ -36,7 +36,7 @@ nav.navbar.navbar-light.navbar-expand-sm.fixed-top .nav-link:hover {
 .accent,
 strong,
 code {
-    color: #e07a5f !important;  /* your desired accent/highlight color */
+    color: #db6040 !important;  /* your desired accent/highlight color */
 }
 
 
@@ -56,39 +56,13 @@ code {
 
 
 
-.social.contact-icons a:hover i {
-  color: #e07a5f !important; /* your hover color */
-}
 
-
-.social.contact-icons a:hover {
-  color: #e07a5f !important; /* your hover color */
-}
-
-.social .contact-icons a:hover .ai.ai-arxiv {
-  color: #e07a5f !important;
-}
-
-
-.social .contact-icons .ai.ai-arxiv:hover {
-  color: #e07a5f !important;
-}
-
-
-
-.fixed-top-nav. container.mt-5 .post .social a:hover .ai.ai-arxiv {
-  color: #e07a5f !important;
-}
-
-.fixed-top-nav. container.mt-5 .post .social .contact-icons a:hover .ai.ai-arxiv {
-  color: #e07a5f !important;
-}
 
 
 
 
 a {
-    color: #e07a5f !important;        /* link color */
+    color: #db6040 !important;        /* link color */
 }
 
 a:hover {
