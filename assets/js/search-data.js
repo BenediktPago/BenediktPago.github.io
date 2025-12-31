@@ -451,7 +451,7 @@ ninja.data = [{
         title: 'DBLP',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://dblp.org/pid/206/3399.html", "_blank");
         },
       },{
         id: 'social-email',
@@ -465,6 +465,6 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/", "_blank");
+          window.open("https://orcid.org/0000-0001-6377-1230", "_blank");
         },
       },];
