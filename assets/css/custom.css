@@ -6,6 +6,12 @@
 
 
 
+.font-weight-lighter {
+  color: #ffffff !important;
+}
+
+
+
 .fixed-top-nav {
     background-color: #d0f0c0; !important;
 }
@@ -44,14 +50,14 @@ code {
 
 .fixed-top-nav. container.mt-5 .post .social a:hover i, 
 .fixed-top-nav. container.mt-5 .post .social a:hover i::before{
-  color: #e07a5f !important;
+  color: #cc3e18 !important;
 }
 
 
 
 .fixed-top-nav. container.mt-5 .post .social a:hover svg, 
 .fixed-top-nav. container.mt-5 .post .social a:hover svg * {
-  fill: #db6040 !important;
+  fill: #cc3e18 !important;
 }
 
 
@@ -80,7 +86,7 @@ a:hover {
     --global-nav-bg-color: #d0f0c0;
     --global-nav-text-color: #ffffff;
     --global-hover-color: #e07a5f !important;
-    --global-theme-color: #e07a5f !important;  
+    --global-theme-color: #cc3e18 !important;  
 }
 
 html,
@@ -88,5 +94,5 @@ html[data-theme],
 html[data-theme="light"],
 html[data-theme="dark"] {
   --global-hover-color: #e07a5f !important;
-  --global-theme-color: #e07a5f !important; 
+  --global-theme-color: #cc3e18 !important; 
 }
