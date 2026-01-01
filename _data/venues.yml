@@ -35,7 +35,7 @@
 "CSL21":
   name: "CSL"
   color: "#355e3b"
-  url: 
+  url: https://www.confident-conference.org/index.php/Event:CSL_2021
 
 
 "CSL17":
@@ -60,14 +60,14 @@
 
 "MFCS25":
   name: "MFCS"
-  color: "#c5d0c7"
+  color: "#6b716c"
   url: https://mfcs2025.mimuw.edu.pl
 
 
 
 "MFCS23":
   name: "MFCS"
-  color: "#c5d0c7"
+  color: "#6b716c"
   url: https://mfcs2023.labri.fr
 
 
