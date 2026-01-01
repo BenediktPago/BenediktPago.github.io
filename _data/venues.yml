@@ -12,3 +12,65 @@
   name: "ITCS"
   color: "#f09235"
   url: http://itcs-conf.org 
+
+
+
+"CSL26":
+  name: "CSL"
+  color: "#355e3b"
+  url: https://csl2026.github.io
+
+
+"CSL24":
+  name: "CSL"
+  color: "#355e3b"
+  url: https://csl2024.github.io/Home/#
+
+
+"CSL23":
+  name: "CSL"
+  color: "#355e3b"
+  url: https://csl2023.mimuw.edu.pl
+
+"CSL21":
+  name: "CSL"
+  color: "#355e3b"
+  url: 
+
+
+"CSL17":
+  name: "CSL"
+  color: "#355e3b"
+  url: https://www.math-stockholm.se/konferenser/logic-in-stockholm-2/26th-eacsl-annual-co/computer-science-logic-2017-august-20-24-1.717663
+
+
+
+
+
+
+
+"ICALP25":
+  name: "ICALP"
+  color: "#0b2444"
+  url: https://conferences.au.dk/icalp2025
+
+
+
+
+
+"MFCS25":
+  name: "MFCS"
+  color: "#c5d0c7"
+  url: https://mfcs2025.mimuw.edu.pl
+
+
+
+"MFCS23":
+  name: "MFCS"
+  color: "#c5d0c7"
+  url: https://mfcs2023.labri.fr
+
+
+
+
+
