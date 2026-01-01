@@ -73,4 +73,14 @@
 
 
 
+"LMCS19":
+  name: "LMCS"
+  color: "#0f1826"
+  url: https://lmcs.episciences.org/volume/view/id/356
+
+
+"ACMNEWS":
+  name: "ACM SIGLOG"
+  color: "#0f1826"
+  url: https://dl.acm.org/newsletter/siglog
 
