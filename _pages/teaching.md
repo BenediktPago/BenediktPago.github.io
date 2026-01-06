@@ -13,6 +13,17 @@ Organize your courses by years, topics, or universities, however you like!
 
 
 
+<p><strong>Course "The quest for a logic for polynomial time", </strong>held at the summer school <a href="https://2025.esslli.eu"><strong>ESSLLI 2025</strong></a> in Bochum<br />
+<br />
+<a href="/assets/pdf/esslli/lecture1.pdf">Lecture 1</a>:&nbsp;What is a logic for polynomial time?<br />
+<a href="/assets/pdf/esslli/lecture2.pdf">Lecture 2</a>: Fixed-point logics<br />
+<a href="/assets/pdf/esslli/lecture3.pdf">Lecture 3</a>: The Cai-Fürer-Immerman construction<br />
+<a href="/assets/pdf/esslli/lecture4.pdf">Lecture 4</a>: Linear-algebraic logics<br />
+<a href="/assets/pdf/esslli/lecture5.pdf">Lecture 5</a>: Choiceless Polynomial Time</p>
+<p>&nbsp;</p>
+
+
+
 <h1> This is a h1 subheading </h1>
 
 <h2> This is a h2 subheading </h2>
