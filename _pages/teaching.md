@@ -12,6 +12,14 @@ For now, this page is assumed to be a static description of your courses. You ca
 Organize your courses by years, topics, or universities, however you like!
 
 
+
+<h1> This is a h1 subheading </h1>
+
+<h2> This is a h2 subheading </h2>
+
+<h3> This is a h3 subheading </h3>
+
+
 <p><b>Past teaching at RWTH Aachen University, Germany</b></p>
 
 <ul>
