@@ -9,7 +9,7 @@ nav_order: 6
 
 
 
-<p> <b><strong>The quest for a logic for polynomial time</strong>, lecture course held at the summer school <a href="https://2025.esslli.eu"><strong>ESSLLI 2025</strong></a> in Bochum</b><br />
+<p> <b><em>The quest for a logic for polynomial time</em>, lecture course held at the summer school <a href="https://2025.esslli.eu"><strong>ESSLLI 2025</strong></a> in Bochum</b><br />
 <br />
 <a href="/assets/pdf/esslli/lecture1.pdf">Lecture 1</a>:&nbsp;What is a logic for polynomial time?<br />
 <a href="/assets/pdf/esslli/lecture2.pdf">Lecture 2</a>: Fixed-point logics<br />
@@ -25,8 +25,11 @@ nav_order: 6
 <p><b>Supervisions at University of Cambridge</b></p>
 
 <ul>
-	<li>Lent 2025 &amp; 2024:&nbsp;<a href="https://www.cl.cam.ac.uk/teaching/2324/CompTheory/">Computation Theory</a>,&nbsp;<a href="https://www.cl.cam.ac.uk/teaching/2526/Complexity/">Complexity Theory</a>.</li>
-	<li>Easter 2025 &amp; 2024: <a href="https://www.cl.cam.ac.uk/teaching/2324/Complexity/">Complexity Theory</a>,&nbsp;<a href="https://www.cl.cam.ac.uk/teaching/2324/IntroProb/">Introduction to Probability</a></li>
+	<li>Lent 2026: <a href="https://www.cl.cam.ac.uk/teaching/2526/CompTheory/">Computation Theory</a>.</li>
+        <li>Easter 2025: <a href="https://www.cl.cam.ac.uk/teaching/2526/Complexity/">Complexity Theory</a>.</li>
+	<li>Lent 2025: <a href="https://www.cl.cam.ac.uk/teaching/2425/CompTheory/">Computation Theory</a>.</li>
+	<li>Easter 2024: <a href="https://www.cl.cam.ac.uk/teaching/2324/Complexity/">Complexity Theory</a>,&nbsp;<a href="https://www.cl.cam.ac.uk/teaching/2324/IntroProb/">Introduction to Probability</a>.</li>
+	<li>Lent 2024: <a href="https://www.cl.cam.ac.uk/teaching/2324/CompTheory">Computation Theory</a>.</li>
 </ul>
 
 <p>&nbsp;</p>
