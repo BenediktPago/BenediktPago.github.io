@@ -2,25 +2,14 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Past and present courses
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
 
 
-<h1> This is a h1 subheading </h1>
-
-<h2> This is a h2 subheading </h2>
-
-<h3> This is a h3 subheading </h3>
-
-
-
-<p><strong>Course "The quest for a logic for polynomial time", </strong>held at the summer school <a href="https://2025.esslli.eu"><strong>ESSLLI 2025</strong></a> in Bochum<br />
+<p>Course <strong>The quest for a logic for polynomial time</strong>held at the summer school <a href="https://2025.esslli.eu"><strong>ESSLLI 2025</strong></a> in Bochum<br />
 <br />
 <a href="/assets/pdf/esslli/lecture1.pdf">Lecture 1</a>:&nbsp;What is a logic for polynomial time?<br />
 <a href="/assets/pdf/esslli/lecture2.pdf">Lecture 2</a>: Fixed-point logics<br />
@@ -43,7 +32,7 @@ Organize your courses by years, topics, or universities, however you like!
 <p>&nbsp;</p>
 
 
-
+<hr>
 
 
 <p><b>Past teaching at RWTH Aachen University, Germany</b></p>
