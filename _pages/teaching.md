@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 
-
+<hr>
 <p> <b><em>The quest for a logic for polynomial time</em>, lecture course held at the summer school <a href="https://2025.esslli.eu"><strong>ESSLLI 2025</strong></a> in Bochum</b><br />
 <br />
 <a href="/assets/pdf/esslli/lecture1.pdf">Lecture 1</a>:&nbsp;What is a logic for polynomial time?<br />
