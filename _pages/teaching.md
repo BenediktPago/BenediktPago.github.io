@@ -9,7 +9,8 @@ nav_order: 6
 
 
 <hr>
-<p> <b><em>The quest for a logic for polynomial time</em>, lecture course held at the summer school <a href="https://2025.esslli.eu"><strong>ESSLLI 2025</strong></a> in Bochum</b><br />
+<h3> <b>The quest for a logic for polynomial time</h3>
+<small>Lecture course held at the summer school <a href="https://2025.esslli.eu"><strong>ESSLLI 2025</strong></a> in Bochum</b><br /></small>
 <br />
 <a href="/assets/pdf/esslli/lecture1.pdf">Lecture 1</a>:&nbsp;What is a logic for polynomial time?<br />
 <a href="/assets/pdf/esslli/lecture2.pdf">Lecture 2</a>: Fixed-point logics<br />
@@ -22,7 +23,7 @@ nav_order: 6
 
 <hr>
 
-<p><b>Supervisions at University of Cambridge</b></p>
+<h3><b>Supervisions at University of Cambridge</b></h3>
 
 <ul>
 	<li>Lent 2026: <a href="https://www.cl.cam.ac.uk/teaching/2526/CompTheory/">Computation Theory</a>.</li>
@@ -38,7 +39,7 @@ nav_order: 6
 <hr>
 
 
-<p><b>Past teaching at RWTH Aachen University, Germany</b></p>
+<h3><b>Past teaching at RWTH Aachen University, Germany</b></h3>
 
 <ul>
 	<li><a href="https://logic.rwth-aachen.de/Teaching/MaLo-SS22/index.html.en">Mathematical Logic</a>&nbsp;(Summer terms 2022 and 2019)</li>
