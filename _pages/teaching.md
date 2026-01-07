@@ -12,6 +12,13 @@ For now, this page is assumed to be a static description of your courses. You ca
 Organize your courses by years, topics, or universities, however you like!
 
 
+<h1> This is a h1 subheading </h1>
+
+<h2> This is a h2 subheading </h2>
+
+<h3> This is a h3 subheading </h3>
+
+
 
 <p><strong>Course "The quest for a logic for polynomial time", </strong>held at the summer school <a href="https://2025.esslli.eu"><strong>ESSLLI 2025</strong></a> in Bochum<br />
 <br />
@@ -24,11 +31,19 @@ Organize your courses by years, topics, or universities, however you like!
 
 
 
-<h1> This is a h1 subheading </h1>
+<hr>
 
-<h2> This is a h2 subheading </h2>
+<p><b>Supervisions at University of Cambridge</b></p>
 
-<h3> This is a h3 subheading </h3>
+<ul>
+	<li>Lent 2025 &amp; 2024:&nbsp;<a href="https://www.cl.cam.ac.uk/teaching/2324/CompTheory/">Computation Theory</a>,&nbsp;<a href="https://www.cl.cam.ac.uk/teaching/2526/Complexity/">Complexity Theory</a>.</li>
+	<li>Easter 2025 &amp; 2024: <a href="https://www.cl.cam.ac.uk/teaching/2324/Complexity/">Complexity Theory</a>,&nbsp;<a href="https://www.cl.cam.ac.uk/teaching/2324/IntroProb/">Introduction to Probability</a></li>
+</ul>
+
+<p>&nbsp;</p>
+
+
+
 
 
 <p><b>Past teaching at RWTH Aachen University, Germany</b></p>
