@@ -9,8 +9,9 @@ nav_order: 6
 
 
 <hr>
-<h3> <b>The quest for a logic for polynomial time</b></h3>
+<h3> The quest for a logic for polynomial time</h3>
 <small>Lecture course held at the summer school <a href="https://2025.esslli.eu"><strong>ESSLLI 2025</strong></a> in Bochum</small><br />
+
 <a href="/assets/pdf/esslli/lecture1.pdf">Lecture 1</a>:&nbsp;What is a logic for polynomial time?<br />
 <a href="/assets/pdf/esslli/lecture2.pdf">Lecture 2</a>: Fixed-point logics<br />
 <a href="/assets/pdf/esslli/lecture3.pdf">Lecture 3</a>: The Cai-Fürer-Immerman construction<br />
@@ -38,7 +39,7 @@ nav_order: 6
 <hr>
 
 
-<h3>Past teaching at RWTH Aachen University, Germany</h3>
+<p><b>Past teaching at RWTH Aachen University, Germany</b></p>
 
 <ul>
 	<li><a href="https://logic.rwth-aachen.de/Teaching/MaLo-SS22/index.html.en">Mathematical Logic</a>&nbsp;(Summer terms 2022 and 2019)</li>
