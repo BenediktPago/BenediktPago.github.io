@@ -41,6 +41,7 @@ nav_order: 6
 
 <p><b>Past teaching at RWTH Aachen University, Germany</b></p>
 
+<div style="display:flex; align-items:flex-start; gap:20px;">
 <ul>
 	<li><a href="https://logic.rwth-aachen.de/Teaching/MaLo-SS22/index.html.en">Mathematical Logic</a>&nbsp;(Summer terms 2022 and 2019)</li>
 	<li><a href="https://logic.rwth-aachen.de/Teaching/MaLo2-WS20/index.html.en">Mathematical Logic II</a>&nbsp;(Winter term 2020)</li>
