@@ -49,6 +49,4 @@ nav_order: 6
 </ul>
 
 
-
-<p><b>Informatics Teaching Award 2019, RWTH Aachen</b></p>
-<img src="/assets/img/Lehrpreis.jpg" alt="Teaching award" width="200">
+<img src="/assets/img/Lehrpreis.jpg" alt="Teaching award" width="200" style="float:right; margin:0 0 1em 1em;">
