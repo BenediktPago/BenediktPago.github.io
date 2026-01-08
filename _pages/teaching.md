@@ -51,7 +51,7 @@ nav_order: 6
 
 <figure style="float:right; margin:0 0 1em 1em; text-align:center;">
 <img src="/assets/img/Lehrpreis.jpg" alt="Teaching award" width="200">
- <figcaption>Informatics Teaching Award 2019</figcaption>
+ <figcaption><b>Teaching Award 2019</b></figcaption>
 </figure>
 </div>
 
