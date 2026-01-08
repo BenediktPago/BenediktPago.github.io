@@ -52,3 +52,8 @@ nav_order: 6
 <img src="/assets/img/Lehrpreis.jpg" alt="Teaching award" width="200">
  <figcaption>Informatics Teaching Award 2019</figcaption>
 </figure>
+</div>
+
+
+
+
