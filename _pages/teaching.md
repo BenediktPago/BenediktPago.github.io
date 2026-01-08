@@ -47,3 +47,8 @@ nav_order: 6
 	<li><a href="https://logic.rwth-aachen.de/Teaching/SeminarProofComplexity-WS22/index.html.en">Seminar Logic, Complexity, Games: Propositional Proof Complexity</a></li>
 	<li><a href="https://logic.rwth-aachen.de/Teaching/SeminarMeta21/index.html.en">Seminar Logic, Complexity, Games: Algorithmic Meta-Theorems and Parameterized Complexity</a></li>
 </ul>
+
+
+
+<p><b>Informatics Teaching Award 2019, RWTH Aachen</b></p>
+<img src="/assets/img/Lehrpreis.jpg" alt="Teaching award">
