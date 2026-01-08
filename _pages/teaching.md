@@ -44,9 +44,11 @@ nav_order: 6
 <ul>
 	<li><a href="https://logic.rwth-aachen.de/Teaching/MaLo-SS22/index.html.en">Mathematical Logic</a>&nbsp;(Summer terms 2022 and 2019)</li>
 	<li><a href="https://logic.rwth-aachen.de/Teaching/MaLo2-WS20/index.html.en">Mathematical Logic II</a>&nbsp;(Winter term 2020)</li>
-	<li><a href="https://logic.rwth-aachen.de/Teaching/SeminarProofComplexity-WS22/index.html.en">Seminar Logic, Complexity, Games: Propositional Proof Complexity</a></li>
-	<li><a href="https://logic.rwth-aachen.de/Teaching/SeminarMeta21/index.html.en">Seminar Logic, Complexity, Games: Algorithmic Meta-Theorems and Parameterized Complexity</a></li>
+	<li><a href="https://logic.rwth-aachen.de/Teaching/SeminarProofComplexity-WS22/index.html.en">Seminar Propositional Proof Complexity</a></li>
+	<li><a href="https://logic.rwth-aachen.de/Teaching/SeminarMeta21/index.html.en">Seminar Algorithmic Meta-Theorems and Parameterized Complexity</a></li>
 </ul>
 
-
-<img src="/assets/img/Lehrpreis.jpg" alt="Teaching award" width="200" style="float:right; margin:0 0 1em 1em;">
+<figure style="float:right; margin:0 0 1em 1em; text-align:center;">
+<img src="/assets/img/Lehrpreis.jpg" alt="Teaching award" width="200">
+ <figcaption>Informatics Teaching Award 2019</figcaption>
+</figure>
