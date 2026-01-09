@@ -5,7 +5,7 @@ description: <a href="https://feasible-math.org/events/PC25/index.html">Oxford P
 img: assets/img/talkOxford.jpg
 importance: 1
 category: work
-redirect_to: /assets/pdf/talks/slidesPC25workshopHandout2.pdf
+redirect: /assets/pdf/talks/slidesPC25workshopHandout2.pdf
 related_publications: true
 ---
 
