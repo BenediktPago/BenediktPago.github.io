@@ -2,10 +2,11 @@
 layout: page
 title: Symmetric Proofs in the Ideal Proof System
 description: <a href="https://feasible-math.org/events/PC25/index.html">Oxford Proof Complexity Workshop 2025</a>
-img: assets/img/12.jpg
+img: assets/img/talkOxford.jpg
 importance: 1
 category: work
 external_link: /assets/pdf/slidesPC25workshopHandout.pdf
+redirect_to: /assets/pdf/slidesPC25workshopHandout.pdf
 related_publications: true
 ---
 
@@ -19,6 +20,8 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
+    external_link: /assets/pdf/slidesPC25workshopHandout.pdf
+    redirect_to: /assets/pdf/my_project.pdf
     img: /assets/img/12.jpg
     ---
 
