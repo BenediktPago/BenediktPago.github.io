@@ -85,6 +85,9 @@ a:hover {
   font-size: 1.1rem;
 }
 
+.projects .card {
+  min-height: 320px;  
+}
 
 
 
