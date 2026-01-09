@@ -388,7 +388,7 @@ ninja.data = [{
           title: 'Symmetric Proofs in the Ideal Proof System',
           description: "Oxford Proof Complexity Workshop 2025",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/assets/pdf/slidesPC25workshopHandout.pdf";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
