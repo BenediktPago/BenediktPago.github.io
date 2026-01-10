@@ -394,9 +394,9 @@ ninja.data = [{
           description: "ICALP 2025, Aarhus",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-symmetric-algebraic-circuits-and-homomorphism-polynomials",
+          title: 'Symmetric Algebraic Circuits and Homomorphism Polynomials',
+          description: "FMT Workshop 2025&amp;nbsp;in Les Houches",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
