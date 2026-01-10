@@ -414,9 +414,9 @@ ninja.data = [{
           description: "Highlights of Logic, Games and Automata 2023, Kassel",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-a-finite-model-theoretic-view-on-propositional-proof-complexity",
+          title: 'A Finite-Model-Theoretic View on Propositional Proof Complexity',
+          description: "Simons online workshop on Theoretical Foundations of SAT/SMT Solving, 2021",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
