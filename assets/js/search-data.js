@@ -399,14 +399,14 @@ ninja.data = [{
           description: "FMT Workshop 2025, Les Houches",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-limitations-of-affine-csp-algorithms-long-version",
+          title: 'Limitations of Affine CSP Algorithms (long version)',
+          description: "CSP World Congress 2024, Colfosco",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-limitations-of-game-comonads-for-invertible-map-equivalence",
           title: 'Limitations of Game Comonads for Invertible-Map Equivalence',
           description: "CSL 2024, Naples",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
