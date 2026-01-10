@@ -399,8 +399,8 @@ ninja.data = [{
           description: "FMT Workshop 2025, Les Houches",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-limitations-of-game-comonads-for-invertible-map-equivalence",
+          title: 'Limitations of Game Comonads for Invertible-Map Equivalence',
           description: "CSL 2024, Naples",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
