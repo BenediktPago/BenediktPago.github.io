@@ -409,9 +409,9 @@ ninja.data = [{
           description: "CSL 2024, Naples",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-lower-bounds-for-choiceless-polynomial-time-via-xor-circuits",
+          title: 'Lower bounds for Choiceless Polynomial Time via XOR-circuits',
+          description: "Highlights of Logic, Games and Automata 2023, Kassel",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-9",
