@@ -2,7 +2,7 @@
 layout: page
 title: Talks
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Slides of selected workshop and conference talks.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
