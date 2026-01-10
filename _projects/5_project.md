@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Limitations of Game Comonads for Invertible-Map Equivalence
+description: <a href="https://csl2024.github.io/Home/">CSL 2024</a>, Naples
+img: /assets/img/talkCSL24.jpg
 importance: 5
 category: work
+redirect: /assets/pdf/talks/slides_CSL2024_handout.pdf
 ---
