@@ -409,11 +409,16 @@ ninja.data = [{
           description: "CSL 2024, Naples",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-on-logic-in-complexity-theory-and-birds-and-frogs",
+          title: 'On logic in complexity theory, and birds and frogs',
+          description: "Logic Mentoring Workshop @ CSL 2023, Warsaw",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{id: "projects-lower-bounds-for-choiceless-polynomial-time-via-xor-circuits",
           title: 'Lower bounds for Choiceless Polynomial Time via XOR-circuits',
           description: "Highlights of Logic, Games and Automata 2023, Kassel",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/projects/7_project/";
             },},{id: "projects-a-finite-model-theoretic-view-on-propositional-proof-complexity",
           title: 'A Finite-Model-Theoretic View on Propositional Proof Complexity',
           description: "Simons Online Workshop on Theoretical Foundations of SAT/SMT Solving, 2021",
