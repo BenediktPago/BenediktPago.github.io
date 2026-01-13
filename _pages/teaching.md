@@ -49,11 +49,42 @@ nav_order: 6
 	<li><a href="https://logic.rwth-aachen.de/Teaching/SeminarMeta21/index.html.en">Seminar Algorithmic Meta-Theorems and Parameterized Complexity</a></li>
 </ul>
 
+
+<style>
+  #overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.8);
+    justify-content: center;
+    align-items: center;
+  }
+
+  #overlay img {
+    max-width: 90%;
+    max-height: 90%;
+  }
+</style>
+
+
+
+
+
 <figure style="float:right; margin:0 0 1em 1em; text-align:center;">
-<img src="/assets/img/Lehrpreis.jpg" alt="Teaching award" width="200">
+<img src="/assets/img/Lehrpreis.jpg"  id="thumb" alt="Teaching award" width="200">
  <figcaption><b>Teaching Award 2019</b></figcaption>
 </figure>
 </div>
+
+<div id="overlay">
+  <img src="assets/img/Lehrpreis.jpg">
+</div>
+
+<script>
+  const overlay = document.getElementById("overlay");
+  document.getElementById("thumb").onclick = () => overlay.style.display = "flex";
+  overlay.onclick = () => overlay.style.display = "none";
+</script>
 
 
 
