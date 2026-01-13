@@ -77,7 +77,7 @@ nav_order: 6
 </div>
 
 <div id="overlay">
-  <img src="/assets/img/Lehrpreis.jpg">
+  <img src="/assets/img/Lehrpreis2.jpg">
 </div>
 
 <script>
