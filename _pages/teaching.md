@@ -71,18 +71,18 @@ nav_order: 6
 
 
 <figure style="float:right; margin:0 0 1em 1em; text-align:center;">
-<img src="/assets/img/Lehrpreis.jpg"  id="thumb" alt="Teaching award" width="200">
+<img src="/assets/img/Lehrpreis.jpg"  id="smallImg" alt="Teaching award" width="200">
  <figcaption><b>Teaching Award 2019</b></figcaption>
 </figure>
 </div>
 
 <div id="overlay">
-  <img src="assets/img/Lehrpreis.jpg">
+  <img src="/assets/img/Lehrpreis.jpg">
 </div>
 
 <script>
   const overlay = document.getElementById("overlay");
-  document.getElementById("thumb").onclick = () => overlay.style.display = "flex";
+  document.getElementById("smallImg").onclick = () => overlay.style.display = "flex";
   overlay.onclick = () => overlay.style.display = "none";
 </script>
 
