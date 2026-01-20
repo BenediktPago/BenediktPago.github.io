@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: University of Cambridge, <a href="https://www.robinson.cam.ac.uk" >Robinson College</a>.  <a href="https://www.cst.cam.ac.uk" Department of Computer Science and Technology</a>. <a href='https://www.cst.cam.ac.uk/research/themes/algorithms-and-complexity'> Logics and Algorithms Group. </a>
+subtitle: University of Cambridge, <a href="https://www.robinson.cam.ac.uk" >Robinson College.</a> <a href="https://www.cst.cam.ac.uk" Department of Computer Science and Technology.</a> <a href='https://www.cst.cam.ac.uk/research/themes/algorithms-and-complexity'> Logics and Algorithms Group. </a>
 
 profile:
   align: left
