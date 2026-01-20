@@ -16,7 +16,7 @@ nav_order: 6
 <a href="/assets/pdf/esslli/lecture2.pdf">Lecture 2</a>: Fixed-point logics<br />
 <a href="/assets/pdf/esslli/lecture3.pdf">Lecture 3</a>: The Cai-Fürer-Immerman construction<br />
 <a href="/assets/pdf/esslli/lecture4.pdf">Lecture 4</a>: Linear-algebraic logics<br />
-<a href="/assets/pdf/esslli/lecture5.pdf">Lecture 5</a>: Choiceless Polynomial Time</p>
+<a href="/assets/pdf/esslli/lecture5.pdf">Lecture 5</a>: Choiceless Polynomial Time
 <p>&nbsp;</p>
 
 
