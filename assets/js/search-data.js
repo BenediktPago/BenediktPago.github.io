@@ -380,7 +380,7 @@ ninja.data = [{
           title: 'CSP World Congress 2025',
           description: "",
           section: "News",},{id: "news-our-new-preprint-lower-bounds-in-algebraic-complexity-via-symmetry-and-homomorphism-polynomials-with-prateek-dwivedi-and-tim-seppelt-is-out-building-on-the-framework-from-our-recent-itcs-26-paper-we-solve-the-long-standing-open-problem-of-separating-the-algebraic-complexity-classes-vf-vbp-and-vp-with-restriction-to-symmetric-circuits-at-least",
-          title: 'Our new preprint Lower Bounds in Algebraic Complexity via Symmetry and Homomorphism Polynomials...',
+          title: 'Our new preprint Lower Bounds in Algebraic Complexity via Symmetry and Homomorphism Polynomials,...',
           description: "",
           section: "News",},{id: "news-excited-for-itcs-2026-in-milan-featuring-our-new-paper-symmetric-algebraic-circuits-and-homomorphism-polynomials-with-anuj-dawar-and-tim-seppelt-we-give-a-surprising-graph-theoretic-characterisation-of-all-polynomials-computable-by-efficient-symmetric-circuits-check-out-our-video-talk",
           title: 'Excited for ITCS 2026 in Milan featuring our new paper Symmetric Algebraic Circuits...',
