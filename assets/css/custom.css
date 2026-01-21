@@ -32,31 +32,9 @@ b {
 }
 
 
-
-.post {
-  /* optional: keep your max-width */
-  /*max-width: 70ch; /* slightly wider than before */
-  /* slightly tighten letters for serif */
-  letter-spacing: -0.02em !important;
-}
-
 */
 
-/* @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
 
-body {
-  font-family: "Crimson Text", serif;
-} */
-
-
-
-
-/*
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
-
-$body-font-family: "Libre Baskerville", serif;
-$heading-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-*/
 
 
 .navbar-brand.title.font-weight-lighter .font-weight-bold {
