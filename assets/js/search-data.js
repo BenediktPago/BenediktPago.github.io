@@ -386,7 +386,7 @@ ninja.data = [{
           title: 'Excited for ITCS 2026 in Milan featuring our new paper Symmetric Algebraic Circuits...',
           description: "",
           section: "News",},{id: "news-upcoming-trip-to-paris-for-csl-2026-i-ll-be-speaking-about-arity-hierarchies-for-quantifiers-closed-under-partial-polymorphisms-my-new-paper-together-with-anuj-dawar-and-lauri-hella-that-explores-a-new-perspective-on-finite-model-theory-inspired-by-methods-from-the-csp-world",
-          title: 'Upcoming trip to Paris for CSL 2026 . I’ll be speaking about Arity...',
+          title: 'Upcoming trip to Paris for CSL 2026. I’ll be speaking about Arity hierarchies...',
           description: "",
           section: "News",},{id: "news-looking-forward-to-the-annual-meeting-of-the-algorithmic-model-theory-community-almoth-2026-which-is-happening-in-passau-this-year",
           title: 'Looking forward to the annual meeting of the Algorithmic Model Theory community AlMoTh...',
