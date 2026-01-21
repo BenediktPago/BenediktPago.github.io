@@ -33,6 +33,15 @@ b {
 
 
 
+.post-content,
+.page-content {
+  max-width: 65ch;
+}
+
+
+
+
+
 
 /* @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
 
