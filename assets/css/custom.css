@@ -34,7 +34,9 @@ b {
 
 */
 
-
+.post {
+  text-align: justify !important;
+}
 
 
 .navbar-brand.title.font-weight-lighter .font-weight-bold {
