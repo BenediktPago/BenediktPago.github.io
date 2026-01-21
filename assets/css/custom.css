@@ -38,6 +38,10 @@ b {
   text-align: justify !important;
 }
 
+.post td {
+  text-align: justify !important;
+}
+
 
 .navbar-brand.title.font-weight-lighter .font-weight-bold {
   color: #cc3e18 !important;
