@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a <b>Postdoctoral Research Associate</b> at Robinson College in Cambridge. As a theoretical computer scientist, I am part of the <em>Logic and Algorithms</em> group led by <a href="https://www.cst.cam.ac.uk/people/ad260"> Anuj Dawar </a>. Before that, in 2023, I completed my PhD under the supervision of <a href = "https://logic.rwth-aachen.de/People/Graedel/index.html.en">Erich Grädel</a> at RWTH Aachen University, Germany.
+I am a <b>Postdoctoral Research Associate</b> at Robinson College in Cambridge. As a theoretical computer scientist, I am part of the <em>Logic and Algorithms</em> group led by <a href="https://www.cst.cam.ac.uk/people/ad260">Anuj Dawar</a>. Before that, in 2023, I completed my PhD under the supervision of <a href = "https://logic.rwth-aachen.de/People/Graedel/index.html.en">Erich Grädel</a> at RWTH Aachen University, Germany.
 
 My research interests cover a range of topics in <b>complexity theory</b> and <b>logic</b>, such as <em>descriptive complexity</em> and <em>finite model theory</em>, <em>proof complexity</em>, <em>algebraic circuit complexity</em>, and the theory of <em>constraint satisfaction problems</em>. 
 

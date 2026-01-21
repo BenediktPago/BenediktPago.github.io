@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://cspworldcongress.org"> CSP World Congress 2025</a> 
+<a href="https://cspworldcongress.org">CSP World Congress 2025</a> 

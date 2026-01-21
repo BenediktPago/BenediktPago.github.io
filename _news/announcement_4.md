@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Looking forward to the annual meeting of the Algorithmic Model Theory community <a href="https://www.fim.uni-passau.de/en/mathematical-logic/algorithmic-model-theory"> AlMoTh 2026 </a>, which is happening in Passau this year.
+Looking forward to the annual meeting of the Algorithmic Model Theory community <a href="https://www.fim.uni-passau.de/en/mathematical-logic/algorithmic-model-theory"> AlMoTh 2026</a>, which is happening in Passau this year.
