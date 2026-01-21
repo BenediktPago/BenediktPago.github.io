@@ -18,6 +18,21 @@ body {
 
 
 
+body {
+  font-family: "Source Serif 4", serif;
+  font-weight: 400;
+}
+
+strong {
+  font-weight: 650;
+}
+
+b {
+  font-weight: 750;
+}
+
+
+
 
 /* @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
 
