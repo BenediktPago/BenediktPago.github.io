@@ -34,11 +34,13 @@ b {
 
 
 .post {
-  max-width: 65ch;
+  max-width: 65ch !important;
 }
 
 
-
+.container .post {
+  max-width: 65ch !important; 
+}
 
 
 
