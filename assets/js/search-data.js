@@ -436,7 +436,7 @@ ninja.data = [{
         title: 'arXiv',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/a/.html", "_blank");
+          window.open("https://arxiv.org/a/pago_b_1# your arXiv author ID.html", "_blank");
         },
       },{
         id: 'social-dblp',
