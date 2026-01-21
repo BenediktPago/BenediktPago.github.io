@@ -34,14 +34,11 @@ b {
 
 
 .post {
-  max-width: 65ch !important;
+  /* optional: keep your max-width */
+  /*max-width: 70ch; /* slightly wider than before */
+  /* slightly tighten letters for serif */
+  letter-spacing: -0.02em !important;
 }
-
-
-.container .post {
-  max-width: 80ch !important; 
-}
-
 
 
 /* @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
