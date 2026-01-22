@@ -385,7 +385,7 @@ ninja.data = [{
           section: "News",},{id: "news-excited-for-itcs-2026-in-milan-featuring-our-new-paper-symmetric-algebraic-circuits-and-homomorphism-polynomials-with-anuj-dawar-and-tim-seppelt-we-give-a-surprising-graph-theoretic-characterisation-of-all-polynomials-computable-by-efficient-symmetric-circuits-check-out-our-video-talk",
           title: 'Excited for ITCS 2026 in Milan featuring our new paper Symmetric Algebraic Circuits...',
           description: "",
-          section: "News",},{id: "news-upcoming-trip-to-paris-for-csl-2026-i-ll-be-speaking-about-arity-hierarchies-for-quantifiers-closed-under-partial-polymorphisms-my-new-paper-together-with-anuj-dawar-and-lauri-hella-that-explores-a-new-perspective-on-finite-model-theory-inspired-by-methods-from-the-csp-world",
+          section: "News",},{id: "news-upcoming-trip-to-paris-for-csl-2026-i-ll-be-speaking-about-arity-hierarchies-for-quantifiers-closed-under-partial-polymorphisms-my-new-paper-together-with-anuj-dawar-and-lauri-hella-that-explores-a-new-perspective-on-finite-model-theory-inspired-by-methods-from-the-world-of-constraint-satisfaction-csp",
           title: 'Upcoming trip to Paris for CSL 2026. I’ll be speaking about Arity hierarchies...',
           description: "",
           section: "News",},{id: "news-looking-forward-to-the-annual-meeting-of-the-algorithmic-model-theory-community-almoth-2026-which-is-happening-in-passau-this-year",
