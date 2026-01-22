@@ -33,7 +33,7 @@ My research interests cover a range of topics in <b>complexity theory</b> and <b
 
 The central question that is studied in these areas is what amount of resources, say, computing time, circuit size, number of lines in a proof, or number of variables in a logical formula, is required to solve a given problem, express a query, or prove a mathematical statement. 
 
-I am especially interested in proving lower bounds by building a comprehensive theory that ties all these facets of complexity together and explains where the hardness lies in a problem. Its overarching framework is based on the notion of <strong> symmetry </strong> that crops up in different guises in circuits, proofs, or algorithms.
+I am especially interested in proving lower bounds by building a comprehensive theory that ties all these facets of complexity together and explains what it is that makes a particular problem easy or hard. Its overarching framework is based on the notion of <strong> symmetry </strong> that crops up in different guises in circuits, proofs, or algorithms.
 
 
 

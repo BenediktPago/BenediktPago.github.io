@@ -19,6 +19,10 @@ nav_order: 6
 <a href="/assets/pdf/esslli/lecture5.pdf">Lecture 5</a>: Choiceless Polynomial Time
 <p>&nbsp;</p>
 
+<figure style="float:right; margin:0 0 1em 1em; text-align:center;">
+<img src="/assets/img/CFIgadget_transparent.png"  id="cfiImg" alt="CFI gadget" width="200">
+</figure>
+</div>
 
 
 <hr>
