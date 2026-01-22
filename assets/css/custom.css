@@ -34,6 +34,12 @@ b {
 
 */
 
+.raise-image {
+  margin-top: -40px;
+}
+
+
+
 .post p {
   text-align: justify !important;
 }

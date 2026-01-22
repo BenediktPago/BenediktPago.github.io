@@ -20,9 +20,9 @@ nav_order: 6
 <p>&nbsp;</p>
 
 <figure style="float:right; margin:0 0 1em 1em; text-align:center;">
-<img src="/assets/img/CFIgadget_transparent.png"  id="cfiImg" alt="CFI gadget" width="200">
+<img src="/assets/img/CFIgadget_transparent.png" class="raise-image"  id="cfiImg" alt="CFI gadget" width="200">
 </figure>
-</div>
+
 
 
 <hr>
