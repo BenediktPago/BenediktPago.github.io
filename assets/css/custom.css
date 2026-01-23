@@ -39,7 +39,7 @@ b {
 }
 
 @media (max-width: 768px) {
-  .daise-image {
+  .raise-image {
     display: none;
   }
 }
