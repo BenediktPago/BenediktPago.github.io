@@ -38,6 +38,12 @@ b {
   margin-top: -300px;
 }
 
+@media (max-width: 768px) {
+  .daise-image {
+    display: none;
+  }
+}
+
 
 
 .post p {
