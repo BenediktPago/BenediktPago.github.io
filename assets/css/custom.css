@@ -40,7 +40,7 @@ b {
 
 @media (max-width: 768px) {
   .raise-image {
-    display: none !important;
+    display: none;
   }
 }
 
@@ -62,7 +62,7 @@ b {
 
 
 .fixed-top-nav {
-    background-color: #d0f0c0; !important;
+    background-color: #d0f0c0 !important;
 }
 
 
