@@ -426,6 +426,11 @@ ninja.data = [{
           description: "Highlights of Logic, Games and Automata 2023, Kassel",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-symmetric-algebraic-circuits-and-homomorphism-polynomials-video",
+          title: 'Symmetric Algebraic Circuits and Homomorphism Polynomials (video)',
+          description: "ITCS 2026, Milan",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{id: "projects-a-finite-model-theoretic-view-on-propositional-proof-complexity",
           title: 'A Finite-Model-Theoretic View on Propositional Proof Complexity',
           description: "Simons Online Workshop 2021 on Theoretical Foundations of SAT/SMT Solving",
