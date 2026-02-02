@@ -7,6 +7,14 @@
 
 "Vision":
   color: "#009f36"
+  
+  
+"STOC26":
+   name: "STOC"
+   color: "#4090CD"
+   url: https://acm-stoc.org/stoc2026/
+ 
+  
 
 "ITCS26":
   name: "ITCS"

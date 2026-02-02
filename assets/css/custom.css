@@ -124,7 +124,9 @@ a:hover {
 
 
 
-
+.badge.rounded.w-100.venue-stoc26 a {
+   color: #ffffff !important;
+}
 
 
 .badge.rounded.w-100.venue-csl26 a {
