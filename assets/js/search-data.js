@@ -391,7 +391,12 @@ ninja.data = [{
           section: "News",},{id: "news-looking-forward-to-the-annual-meeting-of-the-algorithmic-model-theory-community-almoth-2026-which-is-happening-in-passau-this-year",
           title: 'Looking forward to the annual meeting of the Algorithmic Model Theory community AlMoTh...',
           description: "",
-          section: "News",},{id: "projects-symmetric-proofs-in-the-ideal-proof-system",
+          section: "News",},{id: "projects-arity-hierarchies-for-quantifiers-closed-under-partial-polymorphisms",
+          title: 'Arity Hierarchies for Quantifiers closed under Partial Polymorphisms',
+          description: "CSL 2026, Paris",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-symmetric-proofs-in-the-ideal-proof-system",
           title: 'Symmetric Proofs in the Ideal Proof System',
           description: "Oxford Proof Complexity Workshop 2025",
           section: "Projects",handler: () => {
