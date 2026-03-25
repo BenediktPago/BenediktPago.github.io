@@ -376,10 +376,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-csp-world-congress-2025",
-          title: 'CSP World Congress 2025',
-          description: "",
-          section: "News",},{id: "news-excited-for-itcs-2026-in-milan-featuring-our-new-paper-symmetric-algebraic-circuits-and-homomorphism-polynomials-with-anuj-dawar-and-tim-seppelt-we-give-a-surprising-graph-theoretic-characterisation-of-all-polynomials-computable-by-efficient-symmetric-circuits-check-out-our-video-talk",
+            },},{id: "news-excited-for-itcs-2026-in-milan-featuring-our-new-paper-symmetric-algebraic-circuits-and-homomorphism-polynomials-with-anuj-dawar-and-tim-seppelt-we-give-a-surprising-graph-theoretic-characterisation-of-all-polynomials-computable-by-efficient-symmetric-circuits-check-out-our-video-talk",
           title: 'Excited for ITCS 2026 in Milan featuring our new paper Symmetric Algebraic Circuits...',
           description: "",
           section: "News",},{id: "news-our-brand-new-paper-lower-bounds-in-algebraic-complexity-via-symmetry-and-homomorphism-polynomials-with-prateek-dwivedi-and-tim-seppelt-has-just-been-accepted-at-stoc-2026-building-on-the-framework-from-our-recent-itcs-26-paper-we-solve-the-long-standing-open-problem-of-separating-the-algebraic-complexity-classes-vf-vbp-and-vp-with-restriction-to-symmetric-circuits-at-least",
@@ -390,6 +387,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-looking-forward-to-the-annual-meeting-of-the-algorithmic-model-theory-community-almoth-2026-which-is-happening-in-passau-this-year",
           title: 'Looking forward to the annual meeting of the Algorithmic Model Theory community AlMoTh...',
+          description: "",
+          section: "News",},{id: "news-at-bctcs-2026-in-birmingham-i-will-be-giving-a-talk-about-lower-bounds-in-algebraic-complexity-via-symmetry-and-homomorphism-polynomials",
+          title: 'At BCTCS 2026 in Birmingham, I will be giving a talk about Lower...',
           description: "",
           section: "News",},{id: "projects-arity-hierarchies-for-quantifiers-closed-under-partial-polymorphisms",
           title: 'Arity Hierarchies for Quantifiers closed under Partial Polymorphisms',
