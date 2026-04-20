@@ -63,7 +63,10 @@
   url: https://conferences.au.dk/icalp2025
 
 
-
+"ICALP26":
+  name: "ICALP"
+  color: "#0b2444"
+  url: https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/
 
 
 "MFCS25":

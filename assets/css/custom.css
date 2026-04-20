@@ -161,6 +161,11 @@ a:hover {
    color: #ffffff !important;
 }
 
+.badge.rounded.w-100.venue-icalp26 a {
+   color: #ffffff !important;
+}
+
+
 .badge.rounded.w-100.venue-lmcs19 a {
    color: #ffffff !important;
 }
