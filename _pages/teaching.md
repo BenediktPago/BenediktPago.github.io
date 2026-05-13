@@ -30,6 +30,7 @@ nav_order: 6
 <h3>Supervisions at University of Cambridge</h3>
 
 <ul>
+	<li>Easter 2026: <a href="https://www.cl.cam.ac.uk/teaching/2526/Complexity/">Complexity Theory</a>.</li>
 	<li>Lent 2026: <a href="https://www.cl.cam.ac.uk/teaching/2526/CompTheory/">Computation Theory</a>.</li>
         <li>Easter 2025: <a href="https://www.cl.cam.ac.uk/teaching/2526/Complexity/">Complexity Theory</a>.</li>
 	<li>Lent 2025: <a href="https://www.cl.cam.ac.uk/teaching/2425/CompTheory/">Computation Theory</a>.</li>
