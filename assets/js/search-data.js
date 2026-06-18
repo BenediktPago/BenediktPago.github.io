@@ -404,6 +404,11 @@ ninja.data = [{
           description: "BCTCS 2026, Birmingham",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
+            },},{id: "projects-lower-bounds-in-algebraic-complexity-via-symmetry-and-homomorphism-polynomials",
+          title: 'Lower Bounds in Algebraic Complexity via Symmetry and Homomorphism Polynomials',
+          description: "Proof Complexity Workshop 2026, University of Bath",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
             },},{id: "projects-symmetric-proofs-in-the-ideal-proof-system",
           title: 'Symmetric Proofs in the Ideal Proof System',
           description: "Oxford Proof Complexity Workshop 2025",
