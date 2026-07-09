@@ -415,6 +415,11 @@ ninja.data = [{
           description: "Proof Complexity Workshop 2026, University of Bath",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
+            },},{id: "projects-optimal-lower-bounds-for-symmetric-modular-circuits",
+          title: 'Optimal Lower Bounds for Symmetric Modular Circuits',
+          description: "ICALP 2026, Royal Holloway, University of London",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_project/";
             },},{id: "projects-symmetric-proofs-in-the-ideal-proof-system",
           title: 'Symmetric Proofs in the Ideal Proof System',
           description: "Oxford Proof Complexity Workshop 2025",
