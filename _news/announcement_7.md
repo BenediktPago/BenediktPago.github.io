@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-07-03 15:59:00-0400
+date: 2026-09-07 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-<a href="https://sites.google.com/view/algorithmscomplexitywarwick3/home">Workshop Algorithms & Complexity @ Warwick</a>.
+I will be attending the workshop <a href="https://www.newton.ac.uk/event/lfcw01/">Frontiers in complexity lower bounds</a> at the Isaac Newton Institute in Cambridge.
